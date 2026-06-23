@@ -6,7 +6,7 @@ The core objective of the Traffic Enforcer project is to deliver a comprehensive
 
 The Traffic Enforcer platform offers a simple and intuitive interface designed for immediate action. Users are welcomed to a clean dashboard where they can easily drag and drop raw traffic imagery directly into the system. As soon as a photo is uploaded, the platform instantly goes to work, orchestrating a complex sequence of analytical stages behind the scenes. The system is built to process these images seamlessly, providing immediate visual feedback to the user while managing the heavy lifting of traffic analysis.
 
-![Traffic Enforcer Platform Dashboard](./public/landing-page-full.png)
+![Traffic Enforcer Platform Dashboard](https://4sy3dr5w6m.ufs.sh/f/6viMwy9ydt9pYZNOHgqVOLDw9CjirtyHnP27z43cK0JSXAlW)
 
 The automated analysis begins with a critical image preprocessing phase. In real world scenarios, traffic cameras often capture footage under less than ideal conditions. The system is designed to enhance image quality and normalize these inputs automatically. It expertly handles common environmental challenges such as low light conditions, heavy rain, harsh shadows, and motion blur caused by fast moving vehicles. By addressing these issues upfront, the platform ensures that the subsequent detection stages receive the clearest possible data for analysis.
 
@@ -17,8 +17,6 @@ Once the road users are identified, the platform moves to comprehensive traffic 
 Every detected violation is then subjected to a rigorous classification process. The system does not merely flag an issue it categorizes the detected violations into predefined, legally relevant classes. To ensure reliability and assist human reviewers in prioritizing their workload, the platform assigns specific confidence scores to each of its predictions. This allows enforcement teams to focus their attention on the most certain violations first, streamlining the ticketing and verification process.
 
 Identifying a violation is only the first part of the enforcement equation. To be truly useful, the platform automatically locates license plates within the offending vehicles and extracts the vehicle registration details flawlessly using advanced optical character recognition techniques. This crucial step bridges the gap between observing a violation and actually identifying the responsible party, ensuring that the authorities have the exact information needed to issue citations.
-
-![Interactive Upload and Evidence Generation Zone](https://4sy3dr5w6m.ufs.sh/f/6viMwy9ydt9pYZNOHgqVOLDw9CjirtyHnP27z43cK0JSXAlW)
 
 To transform these detections into undeniable, ready to use evidence, the system features a robust evidence generation module. The output is a clearly annotated image that visually highlights the exact nature and location of the offense with bounding boxes and descriptive text. All of this visual evidence is packaged alongside critical violation metadata and exact timestamps into searchable, easily accessible records. This meticulous documentation process ensures a clear and transparent chain of custody for every recorded incident.
 
