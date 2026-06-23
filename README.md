@@ -18,7 +18,7 @@ Every detected violation is then subjected to a rigorous classification process.
 
 Identifying a violation is only the first part of the enforcement equation. To be truly useful, the platform automatically locates license plates within the offending vehicles and extracts the vehicle registration details flawlessly using advanced optical character recognition techniques. This crucial step bridges the gap between observing a violation and actually identifying the responsible party, ensuring that the authorities have the exact information needed to issue citations.
 
-![Interactive Upload and Evidence Generation Zone](./public/landing-page-full.png)
+![Interactive Upload and Evidence Generation Zone](https://4sy3dr5w6m.ufs.sh/f/6viMwy9ydt9pYZNOHgqVOLDw9CjirtyHnP27z43cK0JSXAlW)
 
 To transform these detections into undeniable, ready to use evidence, the system features a robust evidence generation module. The output is a clearly annotated image that visually highlights the exact nature and location of the offense with bounding boxes and descriptive text. All of this visual evidence is packaged alongside critical violation metadata and exact timestamps into searchable, easily accessible records. This meticulous documentation process ensures a clear and transparent chain of custody for every recorded incident.
 
